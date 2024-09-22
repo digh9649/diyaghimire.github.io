@@ -1,1 +1,0 @@
-This was the first project for my INFO 4602 (Information Visualization) class. We created a total of four visualizations, two that were informative, and two that were deceptive. I've also added a medium post I wrote about the project. 

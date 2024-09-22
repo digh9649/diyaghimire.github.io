@@ -1,0 +1,1 @@
+This was a project for my informative visualization class. We created two informative and two deceptive data visualizations. We also wrote a design document and a correlating medium blog post. Both of which are included in this repo as well. 
